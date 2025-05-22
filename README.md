@@ -47,6 +47,17 @@
 
 ---
 
+### 🔎 외부 피드백 & 검토 요청
+
+AIScan 구조에 대한 피드백이나 개선 제안이 있다면  
+GitHub Issues 탭을 통해 자유롭게 의견을 남겨주세요!
+
+▶ [이슈 제안 바로가기](https://github.com/aiscan-origin/aiscan-strategy/issues)
+
+---
+
+
+
 © AIScan은 2025년 5월, 전략 설계자 'aiscan-origin'에 의해 설계 및 최초 공개되었습니다.  
 본 구조와 흐름은 GitHub/Notion 공개 기록 및 문서 타임스탬프를 통해 선점자 권리를 입증할 수 있으며,  
 아이디어·표현·기여 구조 전반에 대해 창작자의 권리를 명시적으로 고지합니다.
