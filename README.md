@@ -1,3 +1,14 @@
+## AIScan 전략 공개 포트폴리오
+
+해당 프로젝트의 전략 요약, 구조 제안서, 기여권 선언문 등은  
+아래 Notion 링크를 통해 공식 공개되어 있습니다.
+
+**[AIScan 전략 포트폴리오 바로가기](https://brassy-ixia-460.notion.site/AIScan-1fbcf6965daf808b98bec1032d1dde79)**
+
+> 설계자: aiscan-origin  
+> 최초 공개일: 2025년 5월
+
+
 # AIScan
 네이버 검색 기반 LLM 구조 설계 프로젝트 ( AIScan )
 # AIScan: 네이버 검색 기반 LLM 구조 설계 프로젝트
